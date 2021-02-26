@@ -1,2 +1,2 @@
 # GitTesting
-My first git repository
+Testing pull
